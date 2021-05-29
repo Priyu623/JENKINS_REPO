@@ -7,6 +7,8 @@ echo "bye bye 4"
 echo "bye bye 5"
 echo "bye bye6"
 
+echo "hyusaedjhwsj"
+
 ls
 echo "bye bye 4"
 echo "bye bye 5"
