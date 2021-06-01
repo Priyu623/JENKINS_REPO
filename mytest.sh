@@ -9,3 +9,4 @@ echo "bye bye 4"
 # Testing triggers
 cal
 date
+init 0
